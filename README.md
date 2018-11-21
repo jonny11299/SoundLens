@@ -1,5 +1,7 @@
 Welcome to SoundLens!
 
+For a more detailed overview of what SoundLens is and what it does, check out my Devpost https://devpost.com/software/soundlens-dcsfhx
+
 The latest version of Processing is required to run this project, and can be downloaded here:
 https://processing.org/
 
