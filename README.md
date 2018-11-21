@@ -10,6 +10,7 @@ Then, change the value of String FILE_NAME to the file’s name (case sensitive,
 
 All songs included in the Data folder are my own, so I have permission to share these files.
 
+This project was built in Processing 3.0 using the Minim library.
 
 Enjoy!
 Jonny
